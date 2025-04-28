@@ -1,7 +1,4 @@
-// @name Telegram Users
-// @description Управление пользователями и банами в Telegram.
-// @id TelegramUsers
-// @version 1.4
+//version 1.4
 
 (function (Scratch) {
   'use strict';
