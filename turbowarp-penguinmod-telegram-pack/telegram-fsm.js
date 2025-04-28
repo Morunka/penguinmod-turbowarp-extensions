@@ -1,7 +1,4 @@
-// @name Finite State Machine
-// @description Управление состояниями бота с помощью FSM.
-// @id FSM
-// @version 1.1
+//version 1.1
 
 (function (Scratch) {
   'use strict';
