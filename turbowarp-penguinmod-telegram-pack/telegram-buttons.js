@@ -1,7 +1,4 @@
-// @name Telegram Buttons
-// @description Работа с кнопками и клавиатурами в Telegram.
-// @id TelegramButtons
-// @version 1.3
+//version 1.3
 
 (function (Scratch) {
   'use strict';
