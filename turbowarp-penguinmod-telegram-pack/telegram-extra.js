@@ -1,7 +1,4 @@
-// @name Telegram Extras
-// @description Дополнительные функции для Telegram бота с поддержкой оплаты и предоплаты.
-// @id TelegramExtras
-// @version 2.2
+//version 2.2
 
 (function (Scratch) {
   'use strict';
