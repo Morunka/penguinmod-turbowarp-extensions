@@ -1,7 +1,4 @@
-// @name Telegram Core
-// @description Базовые функции для Telegram бота.
-// @id TelegramCore
-// @version 1.2
+//version 1.2
 
 (function (Scratch) {
   'use strict';
