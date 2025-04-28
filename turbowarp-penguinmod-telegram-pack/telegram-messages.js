@@ -1,7 +1,4 @@
-// @name Telegram Messages
-// @description Отправка и редактирование сообщений в Telegram.
-// @id TelegramMessages
-// @version 1.4
+//version 1.4
 
 (function (Scratch) {
   'use strict';
