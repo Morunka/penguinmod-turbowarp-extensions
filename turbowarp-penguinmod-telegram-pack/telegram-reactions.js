@@ -1,7 +1,4 @@
-// @name Telegram Reactions
-// @description Управление реакциями в Telegram.
-// @id TelegramReactions
-// @version 1.3
+//version 1.3
 
 (function (Scratch) {
   'use strict';
