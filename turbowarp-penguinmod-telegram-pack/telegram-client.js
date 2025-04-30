@@ -1,7 +1,4 @@
-// @name Telegram Client
-// @description Работа с Telegram через локальный сервер
-// @id TelegramClient
-// @version 1.16
+//version 1.16
 
 (function (Scratch) {
   'use strict';
